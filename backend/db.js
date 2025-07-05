@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://2211201158:DOha6YJJSPYzhuBn@cluster0.zi9uj.mongodb.net/todoApp");
+mongoose.connect("mongodb+srv://manas_19:b2JfTDH8cowKCgoz@cluster0.mdxgw.mongodb.net/");
 
 // Define User schema
 const userSchema = new mongoose.Schema({
